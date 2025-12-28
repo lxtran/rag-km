@@ -1,0 +1,10 @@
+```bash
+llama-index
+llama-index-readers-wikipedia
+
+### Uncomment the following for more functionality
+# llama-index-readers-web  
+# llama-index-readers-database
+# llama-index-readers-google
+# llama-index-readers-slack
+###
